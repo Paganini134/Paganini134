@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paganini134
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently learning a course on PyTorch and SkikitLearn 
-- 💞️ I’m looking to collaborate on LLMs, NLPs and other forms of generative AI, along with traditional generic Machine Learning Projects:)
+- 💞️ I’m looking to collaborate on Computer Vision. Particularly looking to harness the inherent learning capacity of diffusion models across different domains, along with traditional generic Machine Learning Projects:)
 - 📫 How to reach me: Gmail: f20220758@pilani.bits-pilani.ac.in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Life is unfair
