@@ -5,7 +5,7 @@ a Master's in Physics.<br>
 I'm particularly interested in Computer Vision, particularly generative <br>
 architectures such as diffusion models and their variants.<br>
 I am interested in going deeper into the application of LLMs and Vision in <br>
-a wide variety of domains such as Medical Imagery and Vehicular <br>
+a wide variety of domains such as Medical Imagery and Autonomous Driving <br>
 Apart from this, I like designing Agentic AI workflows and exploring<br>
 image generation with ComfyUI
 
