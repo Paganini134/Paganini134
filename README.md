@@ -13,6 +13,11 @@ image generation with ComfyUI
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-gupta-255b30261) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsaksham5002@gmail.com)
 
+[![Website](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://paganini134.github.io/portfolio/) 
+
+
+
+
 ---
 
 
